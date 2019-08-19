@@ -3,7 +3,7 @@
 import os
 import sys
 
-
+#main func
 def main():
     os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'Django_Blog.settings')
     try:
